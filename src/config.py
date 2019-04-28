@@ -1,9 +1,9 @@
 my_config = {
-    'ItemA':{
+    'ItemA': {
         'Enabled': 'True',
         'Description': 'This is ItemA'
     },
-    'ItemB':{
+    'ItemB': {
         'Enabled': 'False',
         'Description': 'This is ItemB'
     }
